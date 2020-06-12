@@ -116,12 +116,12 @@
 						if (xmlhttp.readyState==4) {		
 							if(xmlhttp.status==200){
 								var rec=xmlhttp.responseText;
+								console.log(rec);
 								var arr = JSON.parse(rec);
 								var stutable = document.getElementById("stutable");
 								for(var i in arr){//遍历arr数组时，i为索引
 									var student = eval(arr[i]);
 									var birthday = student.birthday;
-									console.log(birthday);
 									var phone = student.phone;
 									var sname = student.sname;
 									var sex = student.sex;

@@ -19,7 +19,7 @@
 		<div class="col-lg-2"> </div>
 		<div class="col-lg-8" style="height:375px; margin-top: 150px;position: relative;top: 50%;transfrom:translateY(-50%);box-shadow: 6px 6px 6px rgba(0,0,0,0.4);padding: 0;">
 			<div class="col-lg-7" style="background-image: url('img/Login_bg.jpeg');background-size: cover;height: 100%;padding: 0;">
-				<h2 id="tit_left" class="text-center" style="position: absolute;top: 23%;left: 25%;color: #FFF;font-family: serif;">学 生 管 理 系 统</h2>
+				<h2 id="tit_left" class="text-center" style="position: absolute;top: 23%;left: 25%;color: #FFF;font-family: serif;"></h2>
 			</div>
 			<div class="col-lg-5" style="padding: 15px;">
 				<p style="font-family:inherit;font-size: 25px;margin: 5px;margin-bottom: 30px;">登录/Login</p>
